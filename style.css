@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#marker{
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    margin-left: 20px;
+}
+.seattle{
+    display: inline-block;
+    margin: 0px;
+}
+p{
+    font-weight: 900;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+h1{
+    margin-top: 60px;
+    margin-left: 20px;
+}
+#gear{
+    width: 15px;
+    height: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.container{
+    min-height: 250px;
+    width: 500px;
+    border: 2px solid grey;
+    margin: 15px;
+}
+.top{
+    background-color: lightskyblue;
+    height: 70px;
+}
+.bot{
+    height: 170px;
+}
+.user{
+    position: absolute;
+    top: 50px;
+    left: 35px;
+    width: 90px;
+    height: 90px;
+}
